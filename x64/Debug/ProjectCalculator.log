@@ -1,0 +1,9 @@
+﻿  Expressions.cpp
+C:\Users\Ксения\source\repos\ProjectCalculator\ProjectCalculator\Expressions.cpp(41,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ксения\source\repos\ProjectCalculator\ProjectCalculator\Expressions.cpp(84,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ксения\source\repos\ProjectCalculator\ProjectCalculator\Expressions.cpp(108,1): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Ксения\source\repos\ProjectCalculator\ProjectCalculator\Expressions.cpp(177,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ксения\source\repos\ProjectCalculator\ProjectCalculator\Expressions.cpp(253,20): warning C4028: формальный параметр 1 отличается от объявления
+C:\Users\Ксения\source\repos\ProjectCalculator\ProjectCalculator\Expressions.cpp(310,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\Ксения\source\repos\ProjectCalculator\x64\Debug\ProjectCalculator.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ProjectCalculator.vcxproj -> C:\Users\Ксения\source\repos\ProjectCalculator\x64\Debug\ProjectCalculator.exe
